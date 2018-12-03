@@ -1,0 +1,9 @@
+<resources>
+    <!-- Mode Activity ( 처음 모드 선택 화면 ) -->
+    <string name="app_name">GuessMusic</string>
+    <string name="select_mode_txv">모 드  선 택</string>
+    <string name="button_music">게 임 시 작</string>
+
+    <!-- Start Dialog -->
+    <string name="start_dialog_btn">S T A R T</string>
+</resources>
